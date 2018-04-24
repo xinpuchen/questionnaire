@@ -1,6 +1,6 @@
 # paper
 
-> 一个基于vue、vue-Router、vuex的练习项目
+> 一个基于vue、vue-Router、vuex的答卷项目
 
 ## Build Setup
 
