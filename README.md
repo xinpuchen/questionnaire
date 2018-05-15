@@ -6,13 +6,13 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/CHENXPU/paper.git
+git clone https://github.com/CHENXPU/questionnaire.git
 
 # 安装依赖
-cd paper
+cd questionnaire
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行
 npm run dev
 
 # 打包
