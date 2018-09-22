@@ -1,4 +1,4 @@
-# paper
+# questionnaire
 
 > 一个基于vue、vue-Router、vuex的答卷项目
 
