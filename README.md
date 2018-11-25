@@ -6,7 +6,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/CHENXPU/questionnaire.git
+git clone https://github.com/xinpuchen/questionnaire.git
 
 # 安装依赖
 cd questionnaire
