@@ -2,15 +2,16 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import store from './store'
-import './assets/js/rem'
-import './assets/style/common.css'
+import './utils/rem'
+import './common/common.css'
 
-// Vue.config.productionTip = false
+Vue.config.productionTip = false
 
+// eslint-disable-next-line no-new
 new Vue({
-    el: '#app',
-    router,
-    store,
-    components: { App },
-    template: '<App/>'
+  el: '#app',
+  router,
+  store,
+  components: { App },
+  template: '<App/>'
 })
